@@ -62,16 +62,19 @@
 
 ## ✔️ 이번 주 문제
 
-| 주차 | 날짜 | 문제 | 난이도 |
+
+| 날짜 | 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week01|1030|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | Lv.1|
-|Week01|1031|
-|Week01|1101|
-|Week01|1102|
-|Week01|1103|
+|Week01||||
+|1030|JAVA|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | Lv.1|
+||SQL|[상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | Lv.2|
+|1031|
+|1031|
+|1101|
+|1101|
+|1102|
 |Week02|
 |Week03|
-|Week04|
 |Week05|
 |Week06|
 |Week07|
