@@ -23,15 +23,15 @@
     <td align="center"><a href="https://github.com/skybluelion"><img src="https://avatars.githubusercontent.com/skybluelion" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/ha01032"><img src="https://avatars.githubusercontent.com/ha01032" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/BanJung"><img src="https://avatars.githubusercontent.com/BanJung" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/roonhyeon"><img src="https://avatars.githubusercontent.com/roonhyeon" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/hyeyeonnnnn"><img src="https://avatars.githubusercontent.com/hyeyeonnnnn" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/skybluelion"><b>변형준</b></a></td>
     <td align="center"><a href="https://github.com/ha01032"><b>최현서</b></a></td>
     <td align="center"><a href="https://github.com/BanJung"><b>반정현</b></a></td>
     <td align="center"><a href="https://github.com/"><b>황수연</b></a></td>
-    <td align="center"><a href="https://github.com/"><b>이혜연</b></a></td>
+    <td align="center"><a href="https://github.com/hyeyeonnnnn"><b>이혜연</b></a></td>
   </tr>
   
   <tr> 
