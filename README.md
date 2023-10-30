@@ -112,7 +112,7 @@ git bash 사용할 때
 4. 매주 수요일 각자의 코드 설명
 
 git site 이용할 때
-1. create new file
+1. Add file / create new file
 2. 경로 확인
 3. 파일.확장자
 4. 코드 입력
@@ -121,7 +121,7 @@ git site 이용할 때
 <br/>
 
 ## 📁 Repository 폴더 구조
-- 참여 주/문제이름/
+- 참여 주/유형/문제이름/
 - 이름_걸린시간.확장자
 ### 💡 예시
 `Week01/로또의 최고 순위와 최저 순위/`
