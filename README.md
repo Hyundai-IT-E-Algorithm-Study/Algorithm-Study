@@ -71,9 +71,9 @@
 |1101|JAVA|
 ||SQL|[조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)| Lv.2|
 |1102|
-||
+||SQL|[동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041)| Lv.2|
 |1103|
-||
+||SQL|[입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412)| Lv.2|
 |Week02|
 |Week03|
 |Week05|
