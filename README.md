@@ -68,7 +68,7 @@
 |Week01||||
 |1031|JAVA|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | Lv.1|
 ||SQL|[상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | Lv.2|
-|1101|JAVA|
+|1101|JAVA|[[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | Lv.1|
 ||SQL|[조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)| Lv.2|
 |1102|
 ||SQL|[동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041)| Lv.2|
