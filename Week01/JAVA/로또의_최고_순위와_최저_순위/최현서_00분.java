@@ -31,7 +31,7 @@ class Solution {
             case 0 :
                 answer[i] = 6;
                 break;
-            else :
+            default :
                 answer[i] = 7-correct[i];
                 break;          
             }
