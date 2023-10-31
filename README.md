@@ -65,14 +65,14 @@
 
 | 날짜 | 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week01||||
-|1031|JAVA|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | Lv.1|
+|Week01||10.31~11.9||
+||JAVA|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | Lv.1|
+||JAVA|[[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | Lv.1|
+||JAVA|[DFS와 BFS](https://www.acmicpc.net/problem/1260)| 실버2|
+||JAVA|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)| LV.2|
 ||SQL|[상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | Lv.2|
-|1101|JAVA|[[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | Lv.1|
 ||SQL|[조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)| Lv.2|
-|1102|
 ||SQL|[동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041)| Lv.2|
-|1103|
 ||SQL|[입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412)| Lv.2|
 |Week02|
 |Week03|
