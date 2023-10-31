@@ -63,9 +63,9 @@
 ## ✔️ 이번 주 문제
 
 
-| 날짜 | 유형 | 문제 | 난이도 |
+| 날짜 | 유형 | 문제/알고리즘 개념 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week01||10.31~11.9||
+|Week01|10.31~11.9|DFS/BFS||
 ||JAVA|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | Lv.1|
 ||JAVA|[[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | Lv.1|
 ||JAVA|[DFS와 BFS](https://www.acmicpc.net/problem/1260)| 실버2|
