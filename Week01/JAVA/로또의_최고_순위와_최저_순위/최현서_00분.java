@@ -28,25 +28,12 @@ class Solution {
         
         for (int i=0; i<2; i++){
         switch(correct[i]) {
-            case 6 :
-                answer[i] = 1;
-                break;
-            case 5 :
-                answer[i] = 2;
-                break;
-            case 4 :
-                answer[i] = 3;
-                break;
-            case 3 :
-                answer[i] = 4;
-                break;
-            case 2 :
-                answer[i] = 5;
-                break;
-            case 1 :
             case 0 :
                 answer[i] = 6;
-                break;           
+                break;
+            else :
+                answer[i] = 7-correct[i];
+                break;          
             }
         }
         
