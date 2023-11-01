@@ -1,3 +1,6 @@
+// 과거에 지인이 추천해서 파이썬으로 푼 경험이있어서 알고리즘을 알고 있었습니다.
+// 자바 문법이 좀 헷갈려서 시간이 걸렸습니다
+
 import java.util.ArrayList;
 
 class Solution {
