@@ -21,12 +21,12 @@ class Solution {
             	if(lottos[i]==win_nums[j]) {
             		correct[0]++;
             		correct[1]++;
-            		start=j+1; //맞춘게 있을 땐 각각 오름차순이기에, start를 그 이후로 설정(불필요한 반복문 방지)
+            		start=j+1; //맞춘게 있을 땐 각각 오름차순이기에, start를 그 이후로 설정(불필요한 비교 방지)
             	}
             }
         }
         
-        int[] answer = {0,0}; // 순위: index0는 최고순위 index1은 최저순위
+        int[] answer = {0,0}; // 순위: index 0은 최고순위, 1은 최저순위
         
         for (int i=0; i<2; i++){
         	answer[i] = (correct[i] ==0) ? 6 : 7-correct[i];  //0을 제외하곤 7에서 맞춘개수를 뺀것과 순위가 같음
