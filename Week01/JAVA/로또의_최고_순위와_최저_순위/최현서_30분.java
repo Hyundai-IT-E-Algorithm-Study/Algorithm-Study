@@ -19,7 +19,7 @@ class Solution {
             //0이 아닐땐, 반복문으로 각각 맞춰보기
             for(int j=start; j<6; j++) {
             	if(lottos[i]==win_nums[j]) {
-                    //서로 같은게 있을때, 최대 최소 맞춘개수 모두 증가
+                    //서로 같은게 있을땐, 최대 최소 맞춘개수 모두 증가
             		correct[0]++;
             		correct[1]++;
             		start=j+1; 
