@@ -11,12 +11,12 @@ class Solution {
         int start = 0;
         
         for (int i=0; i<6; i++) {
-        	//0이면 최대 맞춘 개수만 1 증가
+        	//0이면, 최대 맞춘 개수만 1 증가
             if (lottos[i] == 0) {
                 correct[0]++;
-                continue;
+                continue;  
             } 
-            //반복문으로 각각 맞춰보기
+            //0이 아닐땐, 반복문으로 각각 맞춰보기
             for(int j=start; j<6; j++) {
             	if(lottos[i]==win_nums[j]) {
             		correct[0]++;
