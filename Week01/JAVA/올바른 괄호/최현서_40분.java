@@ -27,7 +27,7 @@ class Solution {
         
         //answer가 false이면 : 열리는 괄호에 대한 닫히는 괄호(뒤)가 없다는 뜻 -> false 반환
         //만약 스택이 다 지워지지 않았다면 : 닫히는 괄호에 대한 열리는 괄호(앞)가 없다는 뜻 -> false 반환
-        //스택이 비어있다면 : true 반환
+        //스택이 비어있다면 : 모든 괄호가 앞뒤로 열리고 닫히게 짝을 잘 지었다 -> true 반환
         return answer? ptStack.isEmpty() : answer;
     }
 }
