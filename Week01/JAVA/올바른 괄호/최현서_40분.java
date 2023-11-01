@@ -17,7 +17,7 @@ class Solution {
         		try {
         			ptStack.remove(ptStack.size()-1);
 				} catch (Exception e) {
-					//만약 스택이 비어있다면 열리는 괄호에 대한 닫히는 괄호가 없다는 뜻이므로 
+					//만약 스택이 비어있다면 열리는 괄호에 대한 닫히는 괄호(뒤)가 없다는 뜻이므로 
 					//바로 false로 정답반환
 					answer = false;
 					break;
