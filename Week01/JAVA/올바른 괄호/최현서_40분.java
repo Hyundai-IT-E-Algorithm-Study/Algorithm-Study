@@ -15,7 +15,8 @@ class Solution {
         	if(s.charAt(i) == ')') 
         		ptStack.add(s.substring(i,i+1));
         	
-        	//마지막 글자가 열리는 괄호이면 가장 최근에 스택에 들어온 닫히는 괄호 삭제
+        	//마지막 글자가 열리는 괄호이면 "가장 최근에" 스택에 "들어온" 닫히는 괄호 삭제 
+		//-> "STACK 자료구조를 사용한 이유"
         	if(s.charAt(i) == '(') {
         		try {
         			ptStack.remove(ptStack.size()-1);
