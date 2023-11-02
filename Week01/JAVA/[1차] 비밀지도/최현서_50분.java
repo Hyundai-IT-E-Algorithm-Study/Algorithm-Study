@@ -4,7 +4,7 @@ class Solution {
         //지도 한줄씩 암호 해독
     	for (int i=0; i<n; i++) {
             /*
-            암호를 이진수 변환한 String으로 변환하고(toBinaryString),
+            암호를 이진수화한 String으로 변환하고(toBinaryString),
             Long 변환(parseLong)
             EX) 23 ->  10111(2) -> "10111"  ->  10111
                 37 -> 100101(2) -> "100101" -> 100101
