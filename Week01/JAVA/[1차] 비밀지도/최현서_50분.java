@@ -9,7 +9,7 @@ class Solution {
             //    37 -> 100101(2) -> "100101" -> 100101
     		long num1 = Long.parseLong(Integer.toBinaryString(arr1[i]));
     		long num2 = Long.parseLong(Integer.toBinaryString(arr2[i]));
-            //Long자료형으로 바꾼 이유는 2진수의 자리수가 길어지면 Int자료형의 범위(2^31-1=2,147,483,647)를 초과하기 때문
+            //Long자료형으로 바꾼 이유는 2진수의 자리수가 길어지면 Int자료형의 범위(최대 2^31-1=2,147,483,647)를 초과하기 때문
             //n이 16이면 16자리수까지 늘어날 수 있으며, 여기에 parseInt를 하면 RuntimeError발생
 
             
