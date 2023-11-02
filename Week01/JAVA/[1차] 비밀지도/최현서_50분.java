@@ -4,7 +4,7 @@ class Solution {
         //지도의 한줄씩 암호 해독
     	for (int i=0; i<n; i++) {
             //각 지도의 암호를 이진수로 변환한 String으로 바꾸고(toBinaryString),
-            //그걸 또 Long 자료형으로 바꿈(parseLong)
+            //그걸 Long 자료형으로 바꿈(parseLong)
             //EX) 23 ->  10111(2) -> "10111"  ->  10111
             //    37 -> 100101(2) -> "100101" -> 100101
     		long num1 = Long.parseLong(Integer.toBinaryString(arr1[i]));
