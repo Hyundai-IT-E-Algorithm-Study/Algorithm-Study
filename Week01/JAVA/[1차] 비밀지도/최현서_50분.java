@@ -11,7 +11,7 @@ class Solution {
             */
     		long num1 = Long.parseLong(Integer.toBinaryString(arr1[i]));
     		long num2 = Long.parseLong(Integer.toBinaryString(arr2[i]));
-            //Long 변환 이유: 2진수 자리수 길어지면 Int자료형의 범위(최대 2^31-1=2,147,483,647) 초과
+            //Long 변환 이유: 2진수 자리수 길어지면 int자료형의 범위(최대 2^31-1=2,147,483,647) 초과
             //n=16이면 16자리 가능, parseInt하면 RuntimeError
 
             /*
