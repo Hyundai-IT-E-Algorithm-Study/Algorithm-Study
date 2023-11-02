@@ -1,7 +1,7 @@
 class Solution {
     public String[] solution(int n, int[] arr1, int[] arr2) {
     	String[] answer = new String[n];
-        //지도의 위의줄부터 아랫줄까지 탐색
+        //지도의 한줄씩 암호 해독
     	for (int i=0; i<n; i++) {
             //각 지도의 암호를 이진수로 변환한 String으로 바꾸고(toBinaryString),
             //그걸 또 Long 자료형으로 바꿈(parseLong)
