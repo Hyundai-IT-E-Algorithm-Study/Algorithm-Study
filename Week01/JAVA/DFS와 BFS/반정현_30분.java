@@ -4,6 +4,8 @@ import java.io.*;
 public class Main {
 	public static boolean visited[];
 	public static boolean visited_bfs[];
+	//DFS와 BFS
+	//방문할 수 있는 정점이 여러 개인 경우에는 정점 번호가 작은 것을 먼저 방문 : 우선순위 큐 사용
 	public static ArrayList<PriorityQueue<Integer>> graph = new ArrayList<PriorityQueue<Integer>>();
 	public static ArrayList<PriorityQueue<Integer>> graph_bfs = new ArrayList<PriorityQueue<Integer>>();
 
