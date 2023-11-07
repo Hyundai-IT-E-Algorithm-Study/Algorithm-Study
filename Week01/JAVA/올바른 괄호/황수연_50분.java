@@ -18,7 +18,7 @@ class Solution {
                 } else stack.pop(); // 닫는 괄호를 찾았는데, 여는 괄호가 있어서 size가 0이 아닌 것이므로 짝이 맞으니깐 pop으로 빼냄
             }
         }
-        // for문 다 돌려서 짝이 다 맞았으면 size가 0이여야할텐데 그렇지 않으므로 false 
+        // for문 다 돌려서 짝이 다 맞았으면 size가 0이여야할텐데 그렇지 않으므로 false => 이 부분 아이디어 찾아봄
         if(stack.size() != 0) answer = false;
         return answer;
     }
