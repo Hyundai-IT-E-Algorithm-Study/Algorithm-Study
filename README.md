@@ -68,18 +68,18 @@
 |Week01|10.31~11.9|DFS/BFS||
 ||JAVA|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | Lv.1|
 ||JAVA|[[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | Lv.1|
-||JAVA|[DFS와 BFS](https://www.acmicpc.net/problem/1260)| 실버2|
+||JAVA|[DFS와 BFS](https://www.acmicpc.net/problem/1260)| 실버 2|
 ||JAVA|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)| LV.2|
 ||SQL|[상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | Lv.2|
 ||SQL|[조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)| Lv.2|
 ||SQL|[동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041)| Lv.2|
 ||SQL|[입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412)| Lv.2|
-|Week02|11.10~11.16|||
-||JAVA|| Lv.|
-||JAVA|| Lv.|
-||JAVA|| |
-||JAVA|| LV.|
-||JAVA|| LV.|
+|Week02|11.10~11.16|백트래킹/브루트포스||
+||JAVA|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)| Lv.2|
+||JAVA|[미로 탐색](https://www.acmicpc.net/problem/2178)| 실버 1|
+||JAVA|[암호 만들기](https://www.acmicpc.net/problem/1759)| 골드 5|
+||JAVA|[N과 M 시리즈](https://www.acmicpc.net/search#q=n%EA%B3%BC%20m&c=Problems)|풀 수 있는 만큼|
+||JAVA|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)| Lv.1|
 ||SQL|[오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044)| Lv.3|
 ||SQL|[오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411)| Lv.3|
 ||SQL|[카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855)| Lv.3|
