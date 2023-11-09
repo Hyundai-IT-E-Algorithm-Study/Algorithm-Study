@@ -74,7 +74,17 @@
 ||SQL|[조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)| Lv.2|
 ||SQL|[동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041)| Lv.2|
 ||SQL|[입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412)| Lv.2|
-|Week02|
+|Week02|11.10~11.16|||
+||JAVA|| Lv.|
+||JAVA|| Lv.|
+||JAVA|| |
+||JAVA|| LV.|
+||JAVA|| LV.|
+||SQL|[오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044)| Lv.3|
+||SQL|[오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411)| Lv.3|
+||SQL|[카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855)| Lv.3|
+||SQL|[있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043)| Lv.3|
+||SQL|[조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113)| Lv.3|
 |Week03|
 |Week05|
 |Week06|
