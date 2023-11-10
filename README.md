@@ -30,7 +30,7 @@
     <td align="center"><a href="https://github.com/skybluelion"><b>변형준</b></a></td>
     <td align="center"><a href="https://github.com/ha01032"><b>최현서</b></a></td>
     <td align="center"><a href="https://github.com/BanJung"><b>반정현</b></a></td>
-    <td align="center"><a href="https://github.com/"><b>황수연</b></a></td>
+    <td align="center"><a href="https://github.com/roonhyeon"><b>황수연</b></a></td>
     <td align="center"><a href="https://github.com/hyeyeonnnnn"><b>이혜연</b></a></td>
   </tr>
   
