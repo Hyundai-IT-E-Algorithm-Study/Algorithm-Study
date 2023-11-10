@@ -12,7 +12,7 @@ import java.util.StringTokenizer;
 public class Main {
 	static BufferedReader br = null;
 	static StringTokenizer st = null;
-	static int[][] adjMatrix = null;
+	static int[][] adjMatrix = null; //인접행렬 쓰는 이유 > 입력 순이 아닌 값이 작은 노드가 먼저 나와야 하는 문제 조건 때문
 	static StringBuilder str = null;
 	static boolean[] isVisited = null;
 	static int N = 0;
