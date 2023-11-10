@@ -12,7 +12,7 @@ import java.util.StringTokenizer;
 public class Main {
 	static BufferedReader br = null;
 	static StringTokenizer st = null;
-	static ArrayList<ArrayList<Integer>> adjList = null; //인접 리스트 방식 사용 : ArrayList 안에 제너릭으로 ArrayList(리스트 크기 자유롭게 가능)들어감
+	static ArrayList<ArrayList<Integer>> adjList = null; //인접 리스트 방식 사용 : ArrayList 안에 제네릭으로 ArrayList(리스트 크기 자유롭게 가능)들어감
 	static StringBuilder str = null;
 	static boolean[] isVisited = null;
 	static int N = 0;
