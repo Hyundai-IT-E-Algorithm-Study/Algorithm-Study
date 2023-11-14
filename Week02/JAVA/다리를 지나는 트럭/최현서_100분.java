@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Solution2_1 {
+class Solution {
     public int solution(int bridge_length, int weight, int[] truck_weights) {
     	
     	Queue<Integer> trucks = new LinkedList<>(); 
