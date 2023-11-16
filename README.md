@@ -85,7 +85,7 @@
 ||SQL|[카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855)| Lv.3|
 ||SQL|[있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043)| Lv.3|
 ||SQL|[조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113)| Lv.3|
-|Week03|11.17~11.23|||
+|Week03|11.17~11.23|그리디/DP||
 ||JAVA|[]()||
 ||JAVA|[]()||
 ||JAVA|[]()||
