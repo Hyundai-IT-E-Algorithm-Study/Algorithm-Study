@@ -85,7 +85,18 @@
 ||SQL|[카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855)| Lv.3|
 ||SQL|[있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043)| Lv.3|
 ||SQL|[조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113)| Lv.3|
-|Week03|
+|Week03|11.17~11.23|||
+||JAVA|[]()||
+||JAVA|[]()||
+||JAVA|[]()||
+||JAVA|[]()||
+||JAVA|[]()||
+||SQL|[조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668)| Lv.3|
+||SQL|[대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341)| Lv.3|
+||SQL|[즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123)| Lv.3|
+||SQL|[없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042)| Lv.3|
+||SQL|[조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670)| Lv.3|
+|Week04|
 |Week05|
 |Week06|
 |Week07|
