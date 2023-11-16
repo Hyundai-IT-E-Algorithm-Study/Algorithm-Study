@@ -65,7 +65,7 @@
 
 | 날짜 | 유형 | 문제/알고리즘 개념 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week01|10.31~11.9|DFS/BFS||
+|Week01|10.31~11.9|DFS/BFS|x|
 ||JAVA|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | Lv.1|
 ||JAVA|[[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | Lv.1|
 ||JAVA|[DFS와 BFS](https://www.acmicpc.net/problem/1260)| 실버 2|
@@ -74,7 +74,7 @@
 ||SQL|[조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)| Lv.2|
 ||SQL|[동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041)| Lv.2|
 ||SQL|[입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412)| Lv.2|
-|Week02|11.10~11.16|백트래킹/브루트포스||
+|Week02|11.10~11.16|백트래킹/브루트포스|o|
 ||JAVA|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)| Lv.2|
 ||JAVA|[미로 탐색](https://www.acmicpc.net/problem/2178)| 실버 1|
 ||JAVA|[암호 만들기](https://www.acmicpc.net/problem/1759)| 골드 5|
