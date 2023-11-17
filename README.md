@@ -86,11 +86,11 @@
 ||SQL|[있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043)| Lv.3|
 ||SQL|[조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113)| Lv.3|
 |Week03|11.17~11.23|그리디/DP||
-||JAVA|[](https://school.programmers.co.kr/learn/courses/30/lessons/12952)| Lv.2|
-||JAVA|[](https://www.acmicpc.net/problem/11722)||
-||JAVA|[](https://school.programmers.co.kr/learn/courses/30/lessons/42885)||
-||JAVA|[](https://school.programmers.co.kr/learn/courses/30/lessons/43105)||
-||JAVA|[](https://www.acmicpc.net/problem/11722)||
+||JAVA|[N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)| Lv.2|
+||JAVA|[가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)| 실버2|
+||JAVA|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)| Lv.2|
+||JAVA|[정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)| Lv.3|
+||JAVA|[강의실 배정](https://www.acmicpc.net/problem/11000)|골드5|
 ||SQL|[조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668)| Lv.3|
 ||SQL|[대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341)| Lv.3|
 ||SQL|[즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123)| Lv.3|
