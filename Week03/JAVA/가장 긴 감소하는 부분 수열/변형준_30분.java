@@ -34,7 +34,7 @@ public class Main {
 		}
 		
 		for(int i = 0; i < N; i++) max = Math.max(dp[i], max);
-		
+	
 		return max;
 	}
 }
