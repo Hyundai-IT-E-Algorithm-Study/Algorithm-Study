@@ -19,7 +19,7 @@ public class Main {
 		System.out.print(sol());
 		br.close();
 	}
-	
+
 	public static int sol() {
 		int[] dp = new int[N];
 		dp[0] = 1;
