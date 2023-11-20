@@ -40,10 +40,10 @@ public class Main {
 					break;} // y값이 같으면 y축 방향으로 공격 받음
 				else if (x + y == queenX + queenY) {
 					isPossible=false;
-					break;} // x+y가 같으면 7시 대각선 방향으로 공격 받음
+					break;} // x+y가 같으면 01시<->07시 대각선 방향으로 공격 받음
 				else if (x - y == queenX - queenY) {
 					isPossible=false;
-					break;} // x-y가 같으면 5시 대각선 방향으로 공격 받음
+					break;} // x-y가 같으면 11시<->05시 대각선 방향으로 공격 받음
 			}
 			
 			
