@@ -28,7 +28,7 @@ public class Main {
 			return;
     }
 		for (int y = 1; y <= n; y++) {
-			if (isPossible(x,y)) {//"나머지 공격 가지치기" 수행함수(맨밑에 있음)
+			if (isPossible(x,y)) {//"나머지 공격 가지치기" 수행함수(밑에 있음)
 				queens[x] = y; // 해당 위치에 queen 놔둠
 				makeQueens(x + 1);
 			}
