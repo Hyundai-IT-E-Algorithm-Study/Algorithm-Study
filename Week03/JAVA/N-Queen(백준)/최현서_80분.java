@@ -24,7 +24,7 @@ public class Main {
 
 	// x값이 같으면 x축방향 공격이 되므로, x=1부터 n까지 깊이 탐색(재귀) 수행->"x축방향 공격 가지치기"
 	static void makeQueens(int x) {
-		if (x > n) { // 가지치기 안당하고 n까지 도달해야 n개의 퀸을 다 채운 것
+		if (x > n) { // 가지치기 안당하고 n번째 재귀함수까지 도달해야 n개의 퀸을 다 채운 것
 			answer++;
 			return;
 		}
