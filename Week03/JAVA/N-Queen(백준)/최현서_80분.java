@@ -15,7 +15,7 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		n = sc.nextInt();
 		answer = 0;
-		queens = new int[n + 1]; // index를 x좌표, 값을 y좌표로 하는 n 길이 배열 생성
+		queens = new int[n + 1]; // index를 x좌표, 값을 y좌표로 하는 배열 생성(1~n)
 
 		makeQueens(1);
 		System.out.println(answer);
@@ -33,15 +33,15 @@ public class Main {
 			
 			isPossible = true;
 			//가지치기 for문
-			for (int i = 1; i < x; i++) {//이전에 놓아진 x-1개의 퀸들을 배열에서 하나씩 빼서 공격가능여부 확인
-				queenY = queens[i]; // y값 할당
+			for (int queenX = 1; queenX < x; queenX++) {//이전에 놓아진 x-1개의 퀸들을 배열에서 하나씩 빼서 공격가능여부 확인
+				queenY = queens[queenX]; // y값 할당
 				if (y == queenY) {
 					isPossible=false;
 					break;} // y값이 같으면 y축 방향으로 공격 받음
-				else if (x + y == i + queenY) {
+				else if (x + y == queenX + queenY) {
 					isPossible=false;
 					break;} // x+y가 같으면 5시 대각선 방향으로 공격 받음
-				else if (x - y == i - queenY) {
+				else if (x - y == queenX - queenY) {
 					isPossible=false;
 					break;} // x-y가 같으면 7시 대각선 방향으로 공격 받음
 			}
