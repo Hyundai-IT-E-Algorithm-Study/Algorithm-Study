@@ -1,5 +1,5 @@
 //백준에서는 프로그래머스에서 했던 stack 여러개 방법이 시간초과가 떠서 
-//시행착오 끝에 이 방법으로 맞췄습니다.
+//시행착오 끝에 이 방법으로 풀었습니다.
 import java.util.Scanner;
 
 public class Main {
