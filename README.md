@@ -86,7 +86,7 @@
 ||SQL|[있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043)| Lv.3|
 ||SQL|[조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113)| Lv.3|
 |Week03|11.17~11.23|그리디/DP||
-||JAVA|[N-Queen(프로그래머스)](https://school.programmers.co.kr/learn/courses/30/lessons/12952), [N-Queen(백준)](https://www.acmicpc.net/problem/9663)| Lv.2, 골드5|
+||JAVA|[N-Queen(프로그래머스)](https://school.programmers.co.kr/learn/courses/30/lessons/12952), [N-Queen(백준)](https://www.acmicpc.net/problem/9663)| Lv.2, 골드4|
 ||JAVA|[가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)| 실버2|
 ||JAVA|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)| Lv.2|
 ||JAVA|[정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)| Lv.3|
