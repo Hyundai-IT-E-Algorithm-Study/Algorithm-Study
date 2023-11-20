@@ -49,9 +49,9 @@ public class Main {
 			
 			// 가지치기 당하지 않은 x,y 배열에 넣고, 다음 재귀 수행
 			if(isPossible) {
-            queens[x] = y;
+            		queens[x] = y;
 			makeQueens(x + 1);
-            }
+            		}
 
 		}
 	}
