@@ -38,8 +38,8 @@ public class Main {
 	
 	
 	static boolean isPossible(int x, int y) {
-		for (int i=1; i<x;i++) {//i는 x값과 같다.(x 이전값까지 할당됐으므로 수행)
-			queenY = queens[i]; //y값 할당 
+		for (int i=1; i<x;i++) {//i는 배열의 x값과 같다.(매개변수x 이전값까지 할당됐으므로 i<x)
+			queenY = queens[i]; //배열값의 y값 
 			if (y==queenY) return false; //y값이 같으면 y축 방향으로 공격 받음
 			else if (x+y == i+queenY) return false; // x+y가 같으면 5시 대각선 방향으로 공격 받음
 			else if (x-y == i-queenY) return false; // x-y가 같으면 7시 대각선 방향으로 공격 받음
