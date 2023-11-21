@@ -25,7 +25,7 @@ public class Main {
 			seq[i] = Integer.parseInt(st.nextToken());
 		}
 		
-		//
+		//answer의 최솟값은 1이기에 1로 초기화
 		int answer = 1;
 		
 		//currIdx까지 감소하는 수열 길이의 최대값을 구하고 DP에 넣는 for문
