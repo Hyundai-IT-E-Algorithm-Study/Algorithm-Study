@@ -34,16 +34,13 @@ public class Main {
 			isPossible = true;
 			//가지치기 for문
 			for (int queenX = 1; queenX < x; queenX++) {//이전에 놓아진 x-1개의 퀸들을 배열에서 하나씩 빼서 공격가능여부 확인
-				queenY = queens[queenX]; // y값 할당
-				if (y == queenY) {
+				queenY = queens[queenX]; // 퀸의 y값 할당
+				if (y == queenY// y값이 같으면 y축 방향으로 공격 받음 
+			           || x + y == queenX + queenY // x+y가 같으면 01시<->07시 대각선 방향으로 공격 받음
+				   || x - y == queenX - queenY) { // x-y가 같으면 11시<->05시 대각선 방향으로 공격 받음
 					isPossible=false;
-					break;} // y값이 같으면 y축 방향으로 공격 받음
-				else if (x + y == queenX + queenY) {
-					isPossible=false;
-					break;} // x+y가 같으면 01시<->07시 대각선 방향으로 공격 받음
-				else if (x - y == queenX - queenY) {
-					isPossible=false;
-					break;} // x-y가 같으면 11시<->05시 대각선 방향으로 공격 받음
+					break;
+				} 
 			}
 			
 			
