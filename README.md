@@ -96,7 +96,17 @@
 ||SQL|[즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123)| Lv.3|
 ||SQL|[없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042)| Lv.3|
 ||SQL|[조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670)| Lv.3|
-|Week04|
+|Week04|11.24~11.30|||
+||JAVA|[]()| |
+||JAVA|[]()| |
+||JAVA|[]()| |
+||JAVA|[]()| |
+||JAVA|[]()| |
+||SQL|[보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045)| Lv.4|
+||SQL|[식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116)| Lv.4|
+||SQL|[취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204)| Lv.4|
+||SQL|[5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117)| Lv.4|
+||SQL|[자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340)| Lv.3|
 |Week05|
 |Week06|
 |Week07|
