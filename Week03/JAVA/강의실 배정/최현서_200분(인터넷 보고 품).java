@@ -60,7 +60,7 @@ public class Main {
 				room.offer(lecture[i][1]);
 			}
 		}
-		//따라서, 우선순위큐의 길이는 최소 겅의실의 개수와 같다.
+		//따라서, 우선순위큐의 길이는 최소 강의실의 개수와 같다.
 		System.out.println(room.size());
 			
 	}
