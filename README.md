@@ -62,59 +62,171 @@
 
 ## ✔️ 이번 주 문제
 
+### 예시 <h3>✏️Week00-01.01~01.07</h3>
 
-| 날짜 | 유형 | 문제/알고리즘 개념 | 난이도 |
-|:---:|:---:|:---:|:---:|
-|Week01|10.31~11.9|DFS/BFS|x|
-||JAVA|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | Lv.1|
-||JAVA|[[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | Lv.1|
-||JAVA|[DFS와 BFS](https://www.acmicpc.net/problem/1260)| 실버 2|
-||JAVA|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)| LV.2|
-||SQL|[상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | Lv.2|
-||SQL|[조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)| Lv.2|
-||SQL|[동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041)| Lv.2|
-||SQL|[입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412)| Lv.2|
-|Week02|11.10~11.16|백트래킹/브루트포스|o|
-||JAVA|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)| Lv.2|
-||JAVA|[미로 탐색](https://www.acmicpc.net/problem/2178)| 실버 1|
-||JAVA|[암호 만들기](https://www.acmicpc.net/problem/1759)| 골드 5|
-||JAVA|[N과 M 시리즈](https://www.acmicpc.net/search#q=n%EA%B3%BC%20m&c=Problems)|풀 수 있는 만큼|
-||JAVA|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)| Lv.1|
-||SQL|[오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044)| Lv.3|
-||SQL|[오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411)| Lv.3|
-||SQL|[카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855)| Lv.3|
-||SQL|[있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043)| Lv.3|
-||SQL|[조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113)| Lv.3|
-|Week03|11.17~11.23|그리디/DP||
-||JAVA|[N-Queen(프로그래머스)](https://school.programmers.co.kr/learn/courses/30/lessons/12952), [N-Queen(백준)](https://www.acmicpc.net/problem/9663)| Lv.2, 골드4|
-||JAVA|[가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)| 실버2|
-||JAVA|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)| Lv.2|
-||JAVA|[정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)| Lv.3|
-||JAVA|[강의실 배정](https://www.acmicpc.net/problem/11000)|골드5|
-||SQL|[조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668)| Lv.3|
-||SQL|[대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341)| Lv.3|
-||SQL|[즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123)| Lv.3|
-||SQL|[없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042)| Lv.3|
-||SQL|[조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670)| Lv.3|
-|Week04|11.24~11.30|||
-||JAVA|[]()| |
-||JAVA|[]()| |
-||JAVA|[]()| |
-||JAVA|[]()| |
-||JAVA|[]()| |
-||SQL|[보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045)| Lv.4|
-||SQL|[식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116)| Lv.4|
-||SQL|[취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204)| Lv.4|
-||SQL|[5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117)| Lv.4|
-||SQL|[자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340)| Lv.3|
-|Week05|
-|Week06|
-|Week07|
-|Week08|
-|Week09|
-|Week10|
-|Week11|
+| 유형 | 문제/알고리즘 개념 | 난이도 |
+|:---:|:---:|:---:|
+||발표 : DFS/BFS|x|
+|JAVA|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | Lv.1|
 
+
+<details>
+<summary><h3>Week01-10.31~11.9</h3></summary>
+<div markdown="1">
+    
+
+
+|유형|발표 : DFS/BFS|x|
+|:---:|:---:|:---:|
+|JAVA|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | Lv.1|
+|JAVA|[[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | Lv.1|
+|JAVA|[DFS와 BFS](https://www.acmicpc.net/problem/1260)| 실버 2|
+|JAVA|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)| LV.2|
+|SQL|[상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | Lv.2|
+|SQL|[조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)| Lv.2|
+|SQL|[동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041)| Lv.2|
+|SQL|[입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412)| Lv.2|
+</div>
+</details>
+
+
+<details>
+<summary><h3>Week02-11.10~11.16</h3></summary>
+<div markdown="1">
+
+|유형|발표 : 백트래킹/브루트포스|o|
+|:---:|:---:|:---:|
+|JAVA|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)| Lv.2|
+|JAVA|[미로 탐색](https://www.acmicpc.net/problem/2178)| 실버 1|
+|JAVA|[암호 만들기](https://www.acmicpc.net/problem/1759)| 골드 5|
+|JAVA|[N과 M 시리즈](https://www.acmicpc.net/search#q=n%EA%B3%BC%20m&c=Problems)|풀 수 있는 만큼|
+|JAVA|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)| Lv.1|
+|SQL|[오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044)| Lv.3|
+|SQL|[오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411)| Lv.3|
+|SQL|[카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855)| Lv.3|
+|SQL|[있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043)| Lv.3|
+|SQL|[조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113)| Lv.3|
+</div>
+</details>
+
+
+<details>
+<summary><h3>✏️Week03-11.17~11.23</h3></summary>
+<div markdown="1">
+    
+|유형|발표 : 그리디/DP||
+|:---:|:---:|:---:|
+|JAVA|[N-Queen(프로그래머스)](https://school.programmers.co.kr/learn/courses/30/lessons/12952), [N-Queen(백준)](https://www.acmicpc.net/problem/9663)| Lv.2, 골드4|
+|JAVA|[가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)| 실버2|
+|JAVA|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)| Lv.2|
+|JAVA|[정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)| Lv.3|
+|JAVA|[강의실 배정](https://www.acmicpc.net/problem/11000)|골드5|
+|SQL|[조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668)| Lv.3|
+|SQL|[대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341)| Lv.3|
+|SQL|[즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123)| Lv.3|
+|SQL|[없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042)| Lv.3|
+|SQL|[조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670)| Lv.3|
+</div>
+</details>
+
+<details>
+<summary><h3>Week04-11.24~11.30</h3></summary>
+<div markdown="1">
+
+|유형|발표 : ||
+|:---:|:---:|:---:|
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|SQL|[보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045)| Lv.4|
+|SQL|[식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116)| Lv.4|
+|SQL|[취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204)| Lv.4|
+|SQL|[5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117)| Lv.4|
+|SQL|[자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340)| Lv.3|
+</div>
+</details>
+
+<details>
+<summary><h3>진행예정</h3></summary>
+<div markdown="1">
+<!--
+|유형|발표 : ||
+|:---:|:---:|:---:|
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|유형|발표 : ||
+|:---:|:---:|:---:|
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|유형|발표 : ||
+|:---:|:---:|:---:|
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|유형|발표 : ||
+|:---:|:---:|:---:|
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|유형|발표 : ||
+|:---:|:---:|:---:|
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|유형|발표 : ||
+|:---:|:---:|:---:|
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+|SQL|[]()| |
+-->
+</div>
+</details>
 
 <br/>
 
