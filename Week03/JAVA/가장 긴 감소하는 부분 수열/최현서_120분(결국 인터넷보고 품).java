@@ -2,6 +2,10 @@
 // 결국 DP를 쓰지 않으면 풀기 어렵다는 것을 깨닫고,
 // DP문제를 처음 풀어봐서 인터넷을 참고하고 이해 후 구현했습니다.
 
+//백트래킹을 하면 수열의 길이만큼의 깊이로 들어가야하는데
+//DP를 활용하면 이중 for문으로 해결 가능
+
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
