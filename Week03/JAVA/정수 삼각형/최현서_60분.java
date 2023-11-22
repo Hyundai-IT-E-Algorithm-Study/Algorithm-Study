@@ -8,14 +8,14 @@ class Solution {
     	for (int row=1; row<triangle.length; row++) {
     		for(int i=0; i<row+1; i++) {
     			if (i==0) 
-				//맨 왼쪽일땐, 오른쪽 위의 DP값에 현재 값 더해준게 최대 합계
-    				triangle[row][i] = triangle[row][i] + triangle[row-1][i];
+			//맨 왼쪽일땐, 오른쪽 위의 DP값에 현재 값 더해준게 최대 합계
+    			triangle[row][i] = triangle[row][i] + triangle[row-1][i];
     			else if (i==row)
-				//맨 오른쪽일땐, 왼쪽 위의 DP값에 현재 값 더해준게 최대 합계
-    				triangle[row][i] = triangle[row][i] + triangle[row-1][i-1];
+			//맨 오른쪽일땐, 왼쪽 위의 DP값에 현재 값 더해준게 최대 합계
+    			triangle[row][i] = triangle[row][i] + triangle[row-1][i-1];
     			else
-				//사이에 있을 땐, 왼쪽 위 DP값과 오른쪽 위 DP값 중 큰거에 현재 값 더해준게 최대 합계
-    				triangle[row][i] = triangle[row][i] + Math.max(triangle[row-1][i], triangle[row-1][i-1]);
+			//사이에 있을 땐, 왼쪽 위 DP값과 오른쪽 위 DP값 중 큰거에 현재 값 더해준게 최대 합계
+    			triangle[row][i] = triangle[row][i] + Math.max(triangle[row-1][i], triangle[row-1][i-1]);
     		}
     	}
     	//밑변 DP를 정렬해 주고 맨 뒤의 값을 꺼내면, 그게 최대 합계
