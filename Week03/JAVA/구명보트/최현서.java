@@ -16,20 +16,20 @@ class Solution {
     	if(people.length == 1) return 1;
     	int saveCnt =0;
 			
-			//두 인덱스가 만나고 엇갈릴때까지 반복 > 모든 인원 구조될 때까지 반복
+	//두 인덱스가 만나고 엇갈릴때까지 반복 > 모든 인원 구조될 때까지 반복
     	for (int heavyIdx=people.length-1;heavyIdx>=thinIdx ;heavyIdx--) {
-					//보트 하나 추가
+			//보트 하나 추가
     			boatNum++;
-					//안탄 인원 중 제일 무거운 인원 먼저 구조됨.
+			//안탄 인원 중 제일 무거운 인원 먼저 구조됨.
     			saveCnt++;
-					//넣고 난 후 모든 인원을 다 구조했으면, break
-					//(saveCnt변수와 이 조건 없어도 됨.. 보트수엔 영향을 안 주기 때문)
-					if(saveCnt == people.length) break;
-					//만약 안탄 인원 중 제일 가벼운 인원 넣었을때 초과 안하면,
+			//넣고 난 후 모든 인원을 다 구조했으면, break
+			//(saveCnt변수와 이 조건 없어도 됨.. 밑에 내용은 보트수에 영향을 안 주기 때문)
+			if(saveCnt == people.length) break;
+			//만약 안탄 인원 중 제일 가벼운 인원 넣었을때 초과 안하면,
     			if (people[heavyIdx]+people[thinIdx] <= limit) {
-						//제일 가벼운 인원 구조됨
+			//제일 가벼운 인원도 동승
     				saveCnt++;
-						thinIdx++;
+				thinIdx++;
     			 }
     	}
     	
