@@ -131,29 +131,32 @@
 </div>
 </details>
 
+
+
 <details>
-<summary><h3>Week04-11.24~11.30</h3></summary>
+<summary><h3>진행예정</h3></summary>
+<div markdown="1">
+
+<details>
+<summary><h3>Week04-11.24~11.28</h3></summary>
 <div markdown="1">
 
 |유형|발표 : ||
 |:---:|:---:|:---:|
-|JAVA|[]()| |
-|JAVA|[]()| |
 |JAVA|[]()| |
 |JAVA|[]()| |
 |JAVA|[]()| |
 |SQL|[보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045)| Lv.4|
 |SQL|[식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116)| Lv.4|
 |SQL|[취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204)| Lv.4|
-|SQL|[5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117)| Lv.4|
-|SQL|[자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340)| Lv.3|
+
 </div>
 </details>
-
-<details>
-<summary><h3>진행예정</h3></summary>
-<div markdown="1">
+    
 <!--
+<details>
+<summary><h3>Week05-11.29~12.05</h3></summary>
+<div markdown="1">
 |유형|발표 : ||
 |:---:|:---:|:---:|
 |JAVA|[]()| |
@@ -164,8 +167,8 @@
 |SQL|[]()| |
 |SQL|[]()| |
 |SQL|[]()| |
-|SQL|[]()| |
-|SQL|[]()| |
+|SQL|[5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117)| Lv.4|
+|SQL|[자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340)| Lv.3|
 |유형|발표 : ||
 |:---:|:---:|:---:|
 |JAVA|[]()| |
@@ -242,7 +245,7 @@
 - 우선은 기초를 다지고 어려운 것을 도전하겠습니다
 
 ### 스터디 진행 방식
-- 매주 목요일 수업이 끝난 후 2-3시간 정도 오프라인 스터디 진행
+- 매주 화요일 수업이 끝난 후 2-3시간 정도 오프라인 스터디 진행
 - 알고리즘 개념을 매주 선정해서 각자 정리하고 가벼운 발표(?) 진행
 - 백준/프로그래머스 매일 1문제씩 풀고 목요일에 돌아가면서 코드 리뷰
 - SQLD 문제 매일 1문제씩 풀고 위와 동일
@@ -252,10 +255,10 @@
 
 ## 🔍 참여 방법
 git bash 사용할 때
-1.  `git status`  후 필요하다면  `git pull origin main`  명령어 실행
-2.  각자의 폴더에 코드 작성(이름_문제.확장자)
-3.  Remote repository에 push
-4. 매주 수요일 각자의 코드 설명
+1. `git status`  후 필요하다면  `git pull origin main`  명령어 실행
+2. 각자의 폴더에 코드 작성(이름_문제.확장자)
+3. Remote repository에 push
+4. 매주 화요일 각자의 코드 설명
 
 git site 이용할 때
 1. Add file / create new file
