@@ -164,7 +164,8 @@
 - 피보나치 수열
 - 멀리뛰기
     - [https://school.programmers.co.kr/learn/courses/30/lessons/12914](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
-
+- 2 x n 타일링 2
+    - https://www.acmicpc.net/problem/11727
 ---
 
 # Greedy vs. DP
