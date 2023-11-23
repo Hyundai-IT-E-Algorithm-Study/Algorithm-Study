@@ -113,7 +113,7 @@
 
 
 <details>
-<summary><h3>✏️Week03-11.17~11.23</h3></summary>
+<summary><h3>Week03-11.17~11.23</h3></summary>
 <div markdown="1">
     
 |유형|발표 : 그리디/DP||
@@ -132,14 +132,14 @@
 </details>
 
 <details>
-<summary><h3>Week04-11.24~11.28</h3></summary>
+<summary><h3>✏️Week04-11.24~11.28</h3></summary>
 <div markdown="1">
 
 |유형|발표 : 해쉬 알고리즘||
 |:---:|:---:|:---:|
-|JAVA|[]()| |
-|JAVA|[]()| |
-|JAVA|[]()| |
+|JAVA|[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578?language=java)| Lv.2|
+|JAVA|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)| Lv.3|
+|JAVA|[LCS2](https://www.acmicpc.net/problem/9252)| 골드4|
 |SQL|[보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045)| Lv.4|
 |SQL|[식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116)| Lv.4|
 |SQL|[취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204)| Lv.4|
