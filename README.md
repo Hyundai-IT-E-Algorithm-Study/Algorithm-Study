@@ -78,7 +78,7 @@
     
 
 
-|유형|발표 : DFS/BFS|x|
+|유형|발표 : DFS/BFS|밥x|
 |:---:|:---:|:---:|
 |JAVA|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | Lv.1|
 |JAVA|[[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | Lv.1|
@@ -96,7 +96,7 @@
 <summary><h3>Week02-11.10~11.16</h3></summary>
 <div markdown="1">
 
-|유형|발표 : 백트래킹/브루트포스|o|
+|유형|발표 : 백트래킹/브루트포스|밥o|
 |:---:|:---:|:---:|
 |JAVA|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)| Lv.2|
 |JAVA|[미로 탐색](https://www.acmicpc.net/problem/2178)| 실버 1|
@@ -116,7 +116,7 @@
 <summary><h3>Week03-11.17~11.23</h3></summary>
 <div markdown="1">
     
-|유형|발표 : 그리디/DP||
+|유형|발표 : 그리디/DP|밥x|
 |:---:|:---:|:---:|
 |JAVA|[N-Queen(프로그래머스)](https://school.programmers.co.kr/learn/courses/30/lessons/12952), [N-Queen(백준)](https://www.acmicpc.net/problem/9663)| Lv.2, 골드4|
 |JAVA|[가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)| 실버2|
