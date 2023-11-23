@@ -131,17 +131,11 @@
 </div>
 </details>
 
-
-
-<details>
-<summary><h3>진행예정</h3></summary>
-<div markdown="1">
-
 <details>
 <summary><h3>Week04-11.24~11.28</h3></summary>
 <div markdown="1">
 
-|유형|발표 : ||
+|유형|발표 : 해쉬 알고리즘||
 |:---:|:---:|:---:|
 |JAVA|[]()| |
 |JAVA|[]()| |
@@ -153,6 +147,9 @@
 </div>
 </details>
     
+<details>
+<summary><h3>진행예정</h3></summary>
+<div markdown="1">
 
 <details>
 <summary><h3>Week05-11.29~12.05</h3></summary>
