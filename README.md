@@ -153,10 +153,11 @@
 </div>
 </details>
     
-<!--
+
 <details>
 <summary><h3>Week05-11.29~12.05</h3></summary>
 <div markdown="1">
+    
 |유형|발표 : ||
 |:---:|:---:|:---:|
 |JAVA|[]()| |
@@ -169,6 +170,14 @@
 |SQL|[]()| |
 |SQL|[5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117)| Lv.4|
 |SQL|[자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340)| Lv.3|
+
+</div>
+</details>
+
+<details>
+<summary><h3>Week06-</h3></summary>
+<div markdown="1">
+
 |유형|발표 : ||
 |:---:|:---:|:---:|
 |JAVA|[]()| |
@@ -181,6 +190,14 @@
 |SQL|[]()| |
 |SQL|[]()| |
 |SQL|[]()| |
+
+</div>
+</details>
+
+<details>
+<summary><h3>Week07-</h3></summary>
+<div markdown="1">
+
 |유형|발표 : ||
 |:---:|:---:|:---:|
 |JAVA|[]()| |
@@ -193,6 +210,14 @@
 |SQL|[]()| |
 |SQL|[]()| |
 |SQL|[]()| |
+
+</div>
+</details>
+
+<details>
+<summary><h3>Week08-</h3></summary>
+<div markdown="1">
+
 |유형|발표 : ||
 |:---:|:---:|:---:|
 |JAVA|[]()| |
@@ -205,6 +230,14 @@
 |SQL|[]()| |
 |SQL|[]()| |
 |SQL|[]()| |
+
+</div>
+</details>
+
+<details>
+<summary><h3>Week09-</h3></summary>
+<div markdown="1">
+
 |유형|발표 : ||
 |:---:|:---:|:---:|
 |JAVA|[]()| |
@@ -217,6 +250,14 @@
 |SQL|[]()| |
 |SQL|[]()| |
 |SQL|[]()| |
+
+</div>
+</details>
+
+<details>
+<summary><h3>Week10-</h3></summary>
+<div markdown="1">
+    
 |유형|발표 : ||
 |:---:|:---:|:---:|
 |JAVA|[]()| |
@@ -229,7 +270,10 @@
 |SQL|[]()| |
 |SQL|[]()| |
 |SQL|[]()| |
--->
+
+</div>
+</details>
+
 </div>
 </details>
 
