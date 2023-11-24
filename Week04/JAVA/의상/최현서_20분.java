@@ -1,17 +1,12 @@
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.HashSet;
-import java.util.List;
+import java.util.*;
 
 class Solution {
     public int solution(String[][] clothes) {
-    	String[] kinds = new String[clothes.length];
-    	//종류만 kinds에 담음
+    	List<String> kindList = new ArrayList<>();
+    	//종류만 kindList에 담음
     	for (int i=0; i<clothes.length; i++) {
-    		kinds[i] = clothes[i][1];
+    		kindList.add(clothes[i][1]);
     	}
-    	//종류를 리스트 변환
-    	List<String> kindList = Arrays.asList(kinds);
     	//종류를 set변환
     	HashSet<String> kindSet = new HashSet<String>(kindList);
     	
