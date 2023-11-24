@@ -8,9 +8,10 @@ class Solution {
     	int answer = 0;
     	visited = new boolean[n];
 
-      //방문하지 않은 컴퓨터를 root로 dfs수행-> 
-      //dfs수행개수 == 네트워크수 (bfs도 가능)
+      //방문하지 않은 컴퓨터를 root로 dfs수행:
       //dfs나 bfs가 수행이 됐다는 것 == 서로 연결돼있다
+      //dfs(bfs)수행개수 == 네트워크수
+     
     	for (int computer=0; computer<n; computer++) {
     		if (visited[computer]) continue;
     		answer++;
