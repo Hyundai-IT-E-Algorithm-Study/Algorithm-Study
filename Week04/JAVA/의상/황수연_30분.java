@@ -7,7 +7,7 @@ class Solution {
         
         for(int i = 0; i < clothes.length; i++) {
             String c = clothes[i][1]; // 의상 종류(key) 정의
-            hm.put(c, hm.getOrDefault(c, 0) + 1); // 카테고리(key)별로 의상(value) 개수 추가해주기
+            hm.put(c, hm.getOrDefault(c, 0) + 1); // 카테고리(key)별로 의상(value) 개수 추가해주기(아이디어 찾아봄)
         }
         
         for (int count : hm.values()) {
