@@ -24,3 +24,21 @@ class Solution {
         return answer-1;
     }
 }
+
+//HashMap ver.
+import java.util.HashMap;
+
+class Solution {
+    public int solution(String[][] clothes) {
+    	HashMap<String, Integer> clothesMap = new HashMap<>();
+    	
+    	for (String[] c : clothes) {
+    		clothesMap.put(c[1], clothesMap.getOrDefault(c[1], 0) + 1);
+    	}
+    	int answer = 1;
+    	for (String key: clothesMap.keySet()) {
+    		answer *= (clothesMap.get(key)+1);
+    	}
+    	return answer-1;
+    }
+}
