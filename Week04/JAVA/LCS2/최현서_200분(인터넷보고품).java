@@ -13,11 +13,11 @@ public class Main {
 		
 		int[][] DP = new int[len2][len1];
 
-    //첫번째수열중 x길이만큼과, 두번째수열중 y길이만큼에 대해서
+    //첫번째수열중 처음부터 x길이만큼과, 두번째수열중 처음부터 y길이만큼에 대해서
     //최대 LCS를 넣는 DP
 		for (int y=1; y<len2; y++) {
 			for (int x=1; x<len1; x++) {
-        //규칙1)두 값이 같을 땐, 전에 두값을 포함하는 최대값에서 1을 더해줌 
+        //규칙1)두 값이 같을 땐, 전에 두값을 포함하지 않는 최대값에서 1을 더해줌 
 				if (seq1.charAt(x) == seq2.charAt(y)) {
 					DP[y][x] = DP[y-1][x-1] + 1;
 				}
@@ -27,11 +27,11 @@ public class Main {
 				}
 			}
 		}
-    //LCS 구함(맨끝값이 무조건 최대-모든 수열을 다 포함한 것중 최대값이기에)
+    //LCS 구함(맨끝값이 무조건 최대-전체 수열의 최대값이기에)
 		System.out.println(DP[len2-1][len1-1]);
 
     //최대 LCS에 해당하는 수열을 찾기 위해서
-    //위의 과정을 역추적함
+    //위의 과정을 "역추적"함
 		int y = len2-1;
 		int x = len1-1;
 		String ans = "";
