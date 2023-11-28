@@ -132,10 +132,10 @@
 </details>
 
 <details>
-<summary><h3>✏️Week04-11.24~11.28</h3></summary>
+<summary><h3>Week04-11.24~11.28</h3></summary>
 <div markdown="1">
 
-|유형|발표 : 해쉬 알고리즘||
+|유형|발표 : 해쉬 알고리즘|밥x|
 |:---:|:---:|:---:|
 |JAVA|[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578?language=java)| Lv.2|
 |JAVA|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)| Lv.3|
@@ -147,29 +147,30 @@
 </div>
 </details>
     
-<details>
-<summary><h3>진행예정</h3></summary>
-<div markdown="1">
 
 <details>
-<summary><h3>Week05-11.29~12.05</h3></summary>
+<summary><h3>✏️Week05-11.29~12.05</h3></summary>
 <div markdown="1">
     
-|유형|발표 : ||
+|유형|발표 : 정렬 알고리즘||
 |:---:|:---:|:---:|
-|JAVA|[]()| |
-|JAVA|[]()| |
-|JAVA|[]()| |
-|JAVA|[]()| |
-|JAVA|[]()| |
-|SQL|[]()| |
-|SQL|[]()| |
-|SQL|[]()| |
+|JAVA|[스도쿠](https://www.acmicpc.net/problem/2580)| 골드4|
+|JAVA|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)| Lv.2|
+|JAVA|[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062?language=java)| Lv.3|
+|JAVA|[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)| Lv.3|
+|JAVA|[센서](https://www.acmicpc.net/problem/2212)| 골드5|
+|SQL|[헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487)| Lv.3|
+|SQL|[서울에 위치한 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131118)| Lv.4|
+|SQL|[년, 월, 성별 별 상품 구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532)| Lv.4|
 |SQL|[5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117)| Lv.4|
 |SQL|[자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340)| Lv.3|
 
 </div>
 </details>
+
+<details>
+<summary><h3>진행예정</h3></summary>
+<div markdown="1">
 
 <details>
 <summary><h3>Week06-</h3></summary>
