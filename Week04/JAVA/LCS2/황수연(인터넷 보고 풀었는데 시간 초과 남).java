@@ -14,7 +14,7 @@ public class Main {
 		s2 = br.readLine().split("");
         
         result = lcs();
-        bw.write(result.length());
+        bw.write(result.length()+"\n");
         if(result.length() != 0) {
             bw.write(result);
         }
@@ -41,15 +41,14 @@ public class Main {
         
         while(x!=0 && y!=0) {
             if(s1[x-1].equals(s2[y-1])) {
-                s = s1[x-1];
+                s += s1[x-1];
+                x = x - 1;
+                y = y - 1;
             }
             else if(dp[x-1][y] == dp[x][y]) {
                 x = x - 1;
             } 
             else if(dp[x][y-1] == dp[x][y]) {
-                y = y - 1;
-            } else {
-                x = x - 1;
                 y = y - 1;
             }
         }
