@@ -37,13 +37,11 @@ public class Main {
         // LCS dp의 마지막이 최대값
         sb.append(dp[x][y] + "\n");
         List<String> list = new ArrayList<>();
-        String temp = "";
 
         // 가장 큰 값이 LCS이기 때문에 역순으로 탐색. 같을 때만 임시문자열에 담아줌
         while(x != 0 && y != 0) {
             if(str1[x - 1].equals(str2[y - 1])) {
                 list.add(str1[x - 1]);
-                temp += str1[x - 1];
                 x -= 1;
                 y -= 1;
                 // 다른 문자일 때, 테이블에서 오른쪽 아래에서 왼쪽 위 방향이므로
