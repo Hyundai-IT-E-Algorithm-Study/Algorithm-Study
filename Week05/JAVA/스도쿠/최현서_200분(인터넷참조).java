@@ -64,7 +64,7 @@ public class Main {
             if(checkLine(value,y,x) && checkBox(value,boxY,boxX)){
                 sudoku[y][x] = value;
                 sudokuDFS(n+1);
-                //재귀 수행 후 다른 경우에 영향 안 주도록 0으로 초기화
+                //재귀 수행 후 끝까지 못가고 돌아왔을때 다른 경우에 영향 안 주도록 0으로 초기화
                 sudoku[y][x] = 0;
             }
         }
@@ -78,7 +78,7 @@ public class Main {
         return true;
     }
 
-    //속하는 박스에 같은 값 있는지 체크 하는 메서드
+    //속하는 3X3 박스에 같은 값 있는지 체크 하는 메서드
     static boolean checkBox(int value, int boxY, int boxX){
         for (int y=boxY; y<boxY+3; y++){
             for (int x=boxX; x<boxX+3; x++){
