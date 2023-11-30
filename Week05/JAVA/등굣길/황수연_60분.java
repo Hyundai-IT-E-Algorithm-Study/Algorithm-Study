@@ -3,7 +3,7 @@ class Solution {
         int mod = 1000000007;
         int[][] dp = new int[m + 1][n + 1];
         
-        // 물 웅덩이 정의
+        // 물 웅덩이 정의 (아이디어 찾아봄)
         for(int i = 0; i < puddles.length; i++) {
             dp[puddles[i][0]][puddles[i][1]] = -1; 
         }
