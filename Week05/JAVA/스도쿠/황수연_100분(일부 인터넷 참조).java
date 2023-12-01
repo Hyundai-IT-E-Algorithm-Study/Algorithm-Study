@@ -38,7 +38,7 @@ public class Main {
             System.exit(0); // 정답을 찾았으므로 프로그램 종료 (아이디어 찾아봄)
         }
         
-        // 해당 위치의 값이 0이라면 숫자 채워주기
+        // 해당 위치의 값이 0이라면 숫자 채워주기 (아이디어 찾아봄)
         if(arr[row][col] == 0) {
             for(int i = 1; i <= 9; i++) {
                 if(possibility(row, col, i)) { // 유효성 검사 통과 시
@@ -47,7 +47,7 @@ public class Main {
                 }
             }
             arr[row][col] = 0; // 모든 가능한 숫자를 확인했지만 해결책이 없을 때, 다른 숫자를 시도하기 위해 현재 위치의 숫자 초기화 
-			return;
+            return;
         }
         
         sudoku(row, col + 1); // 해당 위치에 숫자를 채울 수 없다고 판단되었을 때, 다른 숫자를 시도하기 위해 다음 열로 이동하는 역할
