@@ -29,11 +29,11 @@ public class Main {
         // 스도쿠 다 채워졌으면 출력하고 종료
         if(row == 9) {
             for (int i = 0; i < 9; i++) {
-				for (int j = 0; j < 9; j++) {
-					System.out.print(arr[i][j] + " ");
-				}
-				System.out.println();
-			}
+		 for (int j = 0; j < 9; j++) {
+		      System.out.print(arr[i][j] + " ");
+		 }
+		 System.out.println();
+	    }
             
             System.exit(0); // 정답을 찾았으므로 프로그램 종료 (아이디어 찾아봄)
         }
