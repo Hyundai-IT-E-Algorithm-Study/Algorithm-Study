@@ -3,10 +3,10 @@ class Solution {
         int[] answer = new int[2];
         
         int sum = brown + yellow;
-            
+        int w, h;
         for (int i = 3; i <= sum; i++) {
-            int w = i;
-            int h = sum / i;
+            w = i;
+            h = sum / i;
             
             if(w > h) continue;
             
