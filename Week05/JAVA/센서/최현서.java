@@ -49,12 +49,11 @@ public class Main {
                 //간격 정렬
                 Arrays.sort(term);
 
-                //간격 중 큰거 K-1개 제거한 것이 답
-                int del = 1;
+                //간격 중 큰거 K-1개 제거한 합이 답
+                int answer = 0;
                 //만약 (N-1)-(K-1)이 0보다 작다면 for문이 안돌아감
                 //이러면 자연스럽게 답이 0이됨.
                 //앞에서 N<=K일때 0이라고 미리 조건 지정했으면 더 풀이에 맞음.
-                int answer = 0;
                 for(int i=0; i<(N-1)-(K-1); i++){
                      answer+=term[i];
                 }
