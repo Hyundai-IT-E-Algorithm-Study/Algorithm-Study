@@ -38,13 +38,13 @@ class Solution {
             if (stone< peopleNum){ //해당 돌을 모든 사람이 밟을 수 없을때,
                 jump ++; //못밟는 사람들이 현재 점프해야 하는 간격 증가
                 if (jump > k){ //점프 간격이 k보다 클때,
-                    return false; //모두 못건넌다(함수종료)
+                    return false; //못건넌다!(함수종료)
                 }
             }
             else jump = 1; //해당 돌을 모든 사람이 밟을 수 있을때,
                            //"점프해야하는 간격 초기화"
         }
-        return true; //for문 끝까지 수행 -> 모든 사람들이 다 건넜다.
+        return true; //for문 끝까지 수행 -> 모든 사람들이 다 건넜다!
     }
 
 }
