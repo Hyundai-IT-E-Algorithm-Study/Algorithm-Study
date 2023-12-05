@@ -21,7 +21,7 @@ class Solution {
         int maxNum = 200000000; //문제에서 준 최대값(돌밟을수있는 최대값>=건널수있는 사람 최대값)
         int peopleNum = (minNum+maxNum)/2;
         while(minNum <= maxNum){
-            if (isAllCanCross(peopleNum)) minNum = peopleNum+1;
+            if (canAllCross(peopleNum)) minNum = peopleNum+1;
             else maxNum = peopleNum-1;
             peopleNum = (minNum+maxNum)/2;
         }
@@ -32,7 +32,7 @@ class Solution {
     //(함수) 모든 사람이 건널 수 있는지 체크하는 함수
     //"연속적으로" 못밟는 돌의 수가 늘어나면 점프간격도 그 수만큼 늘어남
     //점프간격이 k보다 커지는 순간 모두 못건넌다고 판단.
-    boolean isAllCanCross(int peopleNum) {
+    boolean canAllCross(int peopleNum) {
         jump = 1; //점프간격
         for (int stone: stones){ //첫번째돌부터 모든사람이 밟을 수 있는 돌인가 탐색
             if (stone< peopleNum){ //해당 돌을 모든 사람이 밟을 수 없을때,
