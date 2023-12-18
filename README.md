@@ -174,12 +174,12 @@
 
 |유형|발표 : 이분탐색 알고리즘||
 |:---:|:---:|:---:|
+|JAVA|[나무 자르기](https://www.acmicpc.net/problem/2805)| 실버2|
 |JAVA|[]()| |
 |JAVA|[]()| |
 |JAVA|[]()| |
 |JAVA|[]()| |
-|JAVA|[]()| |
-|JAVA|[]()| |
+|JAVA|[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)| Lv. 3|
 |SQL|[우유와 요거트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284)| Lv. 4|
 |SQL|[조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671)| Lv. 3|
 |SQL|[저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856)| Lv. 4|
@@ -200,12 +200,11 @@
 
 |유형|발표 : ||
 |:---:|:---:|:---:|
-|JAVA|[나무 자르기](https://www.acmicpc.net/problem/2805)| 실버2|
 |JAVA|[]()| |
 |JAVA|[]()| |
 |JAVA|[]()| |
 |JAVA|[]()| |
-|JAVA|[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)| Lv. 3|
+|JAVA|[]()| |
 |SQL|[]()| |
 |SQL|[]()| |
 |SQL|[]()| |
