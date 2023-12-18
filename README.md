@@ -149,7 +149,7 @@
     
 
 <details>
-<summary><h3>✏️Week05-11.29~12.05</h3></summary>
+<summary><h3>Week05-11.29~12.05</h3></summary>
 <div markdown="1">
     
 |유형|발표 : 정렬 알고리즘||
@@ -169,7 +169,7 @@
 </details>
 
 <details>
-<summary><h3>Week06-12.12~12.18</h3></summary>
+<summary><h3>✏️Week06-12.12~12.18</h3></summary>
 <div markdown="1">
 
 |유형|발표 : 이분탐색 알고리즘||
