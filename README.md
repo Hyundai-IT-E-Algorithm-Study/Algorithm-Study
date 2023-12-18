@@ -177,7 +177,7 @@
 |JAVA|[나무 자르기](https://www.acmicpc.net/problem/2805)| 실버2|
 |JAVA|[여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)| Lv. 3|
 |JAVA|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)| Lv. 3|
-|JAVA|[]()| |
+|JAVA|[단어 뒤집기 2](https://www.acmicpc.net/problem/17413)| 실버3|
 |JAVA|[]()| |
 |JAVA|[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)| Lv. 3|
 |SQL|[우유와 요거트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284)| Lv. 4|
