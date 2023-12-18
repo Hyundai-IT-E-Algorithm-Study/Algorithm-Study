@@ -169,28 +169,21 @@
 </details>
 
 <details>
-<summary><h3>진행예정</h3></summary>
+<summary><h3>Week06-12.12~12.18</h3></summary>
 <div markdown="1">
 
-<details>
-<summary><h3>Week06-</h3></summary>
-<div markdown="1">
-
-|유형|발표 : ||
+|유형|발표 : 이분탐색 알고리즘||
 |:---:|:---:|:---:|
 |JAVA|[]()| |
-|JAVA|[]()| |
-|JAVA|[]()| |
-|JAVA|[]()| |
-|JAVA|[]()| |
-|SQL|[]()| |
-|SQL|[]()| |
-|SQL|[]()| |
-|SQL|[]()| |
 |SQL|[]()| |
 
 </div>
 </details>
+
+
+<details>
+<summary><h3>진행예정</h3></summary>
+<div markdown="1">
 
 <details>
 <summary><h3>Week07-</h3></summary>
