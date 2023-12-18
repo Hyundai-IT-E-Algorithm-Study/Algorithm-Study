@@ -175,8 +175,8 @@
 |유형|발표 : 이분탐색 알고리즘||
 |:---:|:---:|:---:|
 |JAVA|[나무 자르기](https://www.acmicpc.net/problem/2805)| 실버2|
-|JAVA|[]()| |
-|JAVA|[]()| |
+|JAVA|[여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)| Lv. 3|
+|JAVA|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)| Lv. 3|
 |JAVA|[]()| |
 |JAVA|[]()| |
 |JAVA|[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)| Lv. 3|
