@@ -178,7 +178,7 @@
 |JAVA|[여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)| Lv. 3|
 |JAVA|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)| Lv. 3|
 |JAVA|[단어 뒤집기 2](https://www.acmicpc.net/problem/17413)| 실버3|
-|JAVA|[]()| |
+|JAVA|[스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)| Lv. 3|
 |JAVA|[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)| Lv. 3|
 |SQL|[우유와 요거트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284)| Lv. 4|
 |SQL|[조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671)| Lv. 3|
