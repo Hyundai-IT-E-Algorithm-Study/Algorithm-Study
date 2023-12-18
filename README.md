@@ -169,13 +169,22 @@
 </details>
 
 <details>
-<summary><h3>✏️Week06-12.12~12.18</h3></summary>
+<summary><h3>✏️Week06-12.18~12.26</h3></summary>
 <div markdown="1">
 
 |유형|발표 : 이분탐색 알고리즘||
 |:---:|:---:|:---:|
 |JAVA|[]()| |
-|SQL|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|JAVA|[]()| |
+|SQL|[우유와 요거트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284)| Lv. 4|
+|SQL|[조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671)| Lv. 3|
+|SQL|[저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856)| Lv. 4|
+|SQL|[주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027)| Lv. 4|
+|SQL|[대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139)| Lv. 3|
 
 </div>
 </details>
