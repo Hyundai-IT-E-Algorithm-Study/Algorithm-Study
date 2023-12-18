@@ -200,11 +200,12 @@
 
 |유형|발표 : ||
 |:---:|:---:|:---:|
+|JAVA|[나무 자르기](https://www.acmicpc.net/problem/2805)| 실버2|
 |JAVA|[]()| |
 |JAVA|[]()| |
 |JAVA|[]()| |
 |JAVA|[]()| |
-|JAVA|[]()| |
+|JAVA|[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)| Lv. 3|
 |SQL|[]()| |
 |SQL|[]()| |
 |SQL|[]()| |
