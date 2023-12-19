@@ -31,21 +31,20 @@ public class Main {
     	int height = 0;
 
     	while(low <= high) {
-        mid = (low + high) / 2;
-        sum = 0;
-        for (int tree : trees) {
-          if (tree > mid) {
-            sum += tree - mid;
-          }
+            mid = (low + high) / 2;
+            sum = 0;
+            for (int tree : trees) {
+                if (tree > mid) {
+                    sum += tree - mid;
+                }
+            }
+            if(sum >= M) {
+                height = mid;
+                low = mid + 1;
+            } else {
+                high = mid - 1;
+            }
         }
-
-        if(sum >= M) {
-          height = mid;
-          low = mid + 1;
-        } else {
-          high = mid - 1;
-        }
-      }
-      return height;
+        return height;
     }
 }
