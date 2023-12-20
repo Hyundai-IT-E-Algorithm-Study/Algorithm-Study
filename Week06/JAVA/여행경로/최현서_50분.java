@@ -44,6 +44,8 @@ class Solution {
                 adjMap.get(start).set(i, end);
             }
         }
+        //맨 마지막에 false를 반환한다면 모든 티켓을 다 사용할 경로가 없다는 의미..
+        //하지만 이 문제에선 그러한 경우는 절대 없다고 했음.
         return false;
     }
 
