@@ -29,7 +29,7 @@ class Solution {
         depth++;
         //answer가 다 채워지면 끝
         if(depth == ticketNum+1) return true;
-        //start로부터 더 나아갈 경로가 없다면 재귀차단
+        //위에서 끝이 안 났는데, start로부터 더 나아갈 경로가 없다면 재귀차단
         if (!adjMap.containsKey(start)) return false;
         for (int i = 0 ; i< adjMap.get(start).size(); i++){
             if(!adjMap.get(start).get(i).equals("visited")){
