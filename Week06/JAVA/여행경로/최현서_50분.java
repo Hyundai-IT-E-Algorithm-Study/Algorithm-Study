@@ -13,7 +13,7 @@ class Solution {
             }
             adjMap.get(ticket[0]).add(ticket[1]);
         }
-        //각 value(ArrayList) 정렬하기
+        //각 value(ArrayList) 정렬하기(알파벳 순서가 가장 빠른게 먼저 출력되도록)
         for (String key : adjMap.keySet()){
             Collections.sort(adjMap.get(key));
         }
