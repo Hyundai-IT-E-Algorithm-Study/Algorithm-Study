@@ -18,8 +18,8 @@ public class Main {
         
         while (min <= max) {
             long mid = (min + max) / 2;
-            long sum = 0;
             
+            long sum = 0;
             for (int i = 0; i < trees.length; i++) {
                 if (trees[i] > mid) {
                     sum += trees[i] - mid;
@@ -36,5 +36,4 @@ public class Main {
 
         System.out.println(answer);
     }
-
 }
