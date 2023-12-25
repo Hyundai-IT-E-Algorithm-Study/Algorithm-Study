@@ -16,10 +16,12 @@ class Solution {
             list.add(st.nextToken());
         }
         
-        answer = new String[list.size()];
-        for(int i = 0; i < list.size(); i++){
-            answer[i] = list.get(i);
-        } 
+//         answer = new String[list.size()];
+//         for(int i = 0; i < list.size(); i++){
+//             answer[i] = list.get(i);
+//         } 
+        
+        answer = list.toArray(new String[list.size()]);
         
         return answer;
     }
