@@ -169,7 +169,7 @@
 </details>
 
 <details>
-<summary><h3>✏️Week06-12.18~12.26</h3></summary>
+<summary><h3>Week06-12.18~12.26</h3></summary>
 <div markdown="1">
 
 |유형|발표 : 이분탐색 알고리즘||
@@ -189,30 +189,30 @@
 </div>
 </details>
 
+<details>
+<summary><h3>✏️Week07-23.12.27~24.01.02</h3></summary>
+<div markdown="1">
+
+|유형|발표 : ||
+|:---:|:---:|:---:|
+|JAVA|[적록색약](https://www.acmicpc.net/problem/10026)| 골드 5|
+|JAVA|[외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)| Lv. 3|
+|JAVA|[숨바꼭질 2](https://www.acmicpc.net/problem/12851)| 골드 4|
+|JAVA|[차이를 최대로](https://www.acmicpc.net/problem/10819)| 실버 2|
+|JAVA|[감시](https://www.acmicpc.net/problem/15683)| 골드 4|
+|SQL|[그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124?language=oracle)| Lv. 4|
+|SQL|[오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)| Lv. 4|
+|SQL|[입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413)| Lv. 4|
+|SQL|[특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157339)| Lv. 4|
+|SQL|[자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141)| Lv. 4|
+
+</div>
+</details>
 
 <details>
 <summary><h3>진행예정</h3></summary>
 <div markdown="1">
 
-<details>
-<summary><h3>Week07-</h3></summary>
-<div markdown="1">
-
-|유형|발표 : ||
-|:---:|:---:|:---:|
-|JAVA|[]()| |
-|JAVA|[]()| |
-|JAVA|[]()| |
-|JAVA|[]()| |
-|JAVA|[]()| |
-|SQL|[]()| |
-|SQL|[]()| |
-|SQL|[]()| |
-|SQL|[]()| |
-|SQL|[]()| |
-
-</div>
-</details>
 
 <details>
 <summary><h3>Week08-</h3></summary>
