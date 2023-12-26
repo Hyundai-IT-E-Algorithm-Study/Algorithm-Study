@@ -200,6 +200,7 @@
 |JAVA|[숨바꼭질 2](https://www.acmicpc.net/problem/12851)| 골드 4|
 |JAVA|[차이를 최대로](https://www.acmicpc.net/problem/10819)| 실버 2|
 |JAVA|[감시](https://www.acmicpc.net/problem/15683)| 골드 4|
+|JAVA|[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)| Lv. 3|
 |SQL|[그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124?language=oracle)| Lv. 4|
 |SQL|[오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)| Lv. 4|
 |SQL|[입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413)| Lv. 4|
