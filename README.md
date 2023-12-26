@@ -193,7 +193,7 @@
 <summary><h3>✏️Week07-23.12.27~24.01.02</h3></summary>
 <div markdown="1">
 
-|유형|발표 : ||
+|유형|발표 : 다익스트라||
 |:---:|:---:|:---:|
 |JAVA|[적록색약](https://www.acmicpc.net/problem/10026)| 골드 5|
 |JAVA|[외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)| Lv. 3|
