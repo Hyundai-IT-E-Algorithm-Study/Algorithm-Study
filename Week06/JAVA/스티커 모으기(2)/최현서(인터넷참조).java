@@ -1,9 +1,9 @@
 class Solution {
     public int solution(int[] sticker) {
+        int stickerNum = sticker.length;
+        
         //원형이라, dp 2개 사용
         //맨처음거 포함하는 dp1
-        int stickerNum = sticker.length;
-
         int[] dp1 = new int[stickerNum];
         //맨처음거 포함 안하는 dp2
         int[] dp2 = new int[stickerNum];
