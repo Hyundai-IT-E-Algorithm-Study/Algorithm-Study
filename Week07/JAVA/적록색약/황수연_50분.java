@@ -49,7 +49,7 @@ public class Main {
 //			}
 //		}
 
-    // gpt의 도움
+    		// gpt의 도움
 		int sum2 = 0;
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < N; j++) {
