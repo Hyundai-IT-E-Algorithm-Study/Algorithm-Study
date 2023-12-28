@@ -19,7 +19,7 @@ class Solution {
             if (i<weakNum) lineWeak[i] = weak[i];
             else lineWeak[i] = weak[i-weakNum]+n;
         }
-        //모든 간격 순서 경우의수(순열) 담은 배열 만들기
+        //모든 간격 순서 경우의수(순열) 담은 리스트 만들기
         orderDistList = new ArrayList<>();
         visited=new boolean[distNum];
         output= new int[distNum];
