@@ -16,7 +16,7 @@ public class Main {
 		for (int i = 0; i < N; i++) {
 			color = sc.next();
 			for (int j = 0; j < N; j++) {
-				gallery[i][j] = color.charAt(j); // 아스키코드값 변환
+				gallery[i][j] = color.charAt(j);
 			}
 		}
 
