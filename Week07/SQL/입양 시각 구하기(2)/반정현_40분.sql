@@ -1,0 +1,25 @@
+WITH HOURS AS (
+    SELECT ROWNUM - 1 AS HOUR
+    FROM (
+        SELECT 1 FROM ANIMAL_OUTS
+    )
+    WHERE ROWNUM <= 24
+)
+SELECT 
+    H.HOUR, 
+    NVL(COUNT(A.ANIMAL_ID), 0) AS COUNT
+FROM 
+    HOURS H
+LEFT JOIN 
+    (SELECT 
+        TO_CHAR(DATETIME, 'HH24') AS HOUR, 
+        ANIMAL_ID 
+     FROM 
+        ANIMAL_OUTS
+    ) A
+ON 
+    H.HOUR = A.HOUR
+GROUP BY 
+    H.HOUR
+ORDER BY 
+    H.HOUR;
