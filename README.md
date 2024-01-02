@@ -210,30 +210,26 @@
 </div>
 </details>
 
-<details>
-<summary><h3>진행예정</h3></summary>
-<div markdown="1">
-
 
 <details>
-<summary><h3>Week08-</h3></summary>
+<summary><h3>✏️Week08-01.03~01.09</h3></summary>
 <div markdown="1">
 
 |유형|발표 : ||
 |:---:|:---:|:---:|
-|JAVA|[]()| |
-|JAVA|[]()| |
-|JAVA|[]()| |
-|JAVA|[]()| |
-|JAVA|[]()| |
-|SQL|[]()| |
-|SQL|[]()| |
-|SQL|[]()| |
-|SQL|[]()| |
-|SQL|[]()| |
+|JAVA|[이모티콘](https://www.acmicpc.net/problem/14226)| 골드4|
+|JAVA|[전쟁 - 전투](https://www.acmicpc.net/problem/1303)| 실버1|
+|JAVA|[빗물](https://www.acmicpc.net/problem/14719)| 골드5|
+|JAVA|[토마토](https://www.acmicpc.net/problem/7576)| 골드5|
+|JAVA|[배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)| Lv. 2|
+|SQL|[상품을 구매한 회원 비율 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131534)| Lv. 5|
 
 </div>
 </details>
+
+<details>
+<summary><h3>진행예정</h3></summary>
+<div markdown="1">
 
 <details>
 <summary><h3>Week09-</h3></summary>
