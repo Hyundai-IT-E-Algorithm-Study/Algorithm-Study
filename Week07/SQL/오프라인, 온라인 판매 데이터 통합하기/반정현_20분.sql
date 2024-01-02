@@ -1,0 +1,28 @@
+SELECT 
+    TO_CHAR(SALES_DATE,'YYYY-MM-DD'), 
+    PRODUCT_ID, 
+    USER_ID, 
+    SALES_AMOUNT
+FROM
+    (SELECT 
+        SALES_DATE, 
+        PRODUCT_ID, 
+        USER_ID, 
+        SALES_AMOUNT
+    FROM 
+        ONLINE_SALE
+    WHERE 
+         TO_DATE('2022-03-01', 'YYYY-MM-DD') <= SALES_DATE AND SALES_DATE < TO_DATE('2022-04-01', 'YYYY-MM-DD')
+    UNION ALL
+    SELECT 
+        SALES_DATE, 
+        PRODUCT_ID, 
+        NULL AS USER_ID, 
+        SALES_AMOUNT
+    FROM 
+        OFFLINE_SALE
+    WHERE 
+         TO_DATE('2022-03-01', 'YYYY-MM-DD') <= SALES_DATE AND SALES_DATE < TO_DATE('2022-04-01', 'YYYY-MM-DD')
+    )
+ORDER BY 
+    1,2,3;
