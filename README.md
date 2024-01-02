@@ -190,7 +190,7 @@
 </details>
 
 <details>
-<summary><h3>✏️Week07-23.12.27~24.01.02</h3></summary>
+<summary><h3>✏Week07-23.12.27~24.01.02</h3></summary>
 <div markdown="1">
 
 |유형|발표 : 다익스트라||
