@@ -1,6 +1,4 @@
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -32,8 +30,8 @@ public class Main {
             }
 
             for (int i=0; i<=2; i++){
-                int nextEmoticon = i==1? emoticon : i==2? emoticon+clipboard: emoticon-1;
-                int nextClipboard = i==1? emoticon: clipboard;
+                int nextEmoticon = i==0? emoticon : i==1? emoticon+clipboard: emoticon-1;
+                int nextClipboard = i==0? emoticon: clipboard;
 
                 if (nextEmoticon<=0 || nextEmoticon>2*S || visited[nextEmoticon][nextClipboard]) continue;
                 visited[nextEmoticon][nextClipboard] = true;
