@@ -11,7 +11,7 @@ public class Solution {
             G.add(new ArrayList<Node>());
         }
         //최소거리배열 생성(거리최대값인 2000보다 큰 값으로 초기화)
-        int INF = (int) 1e9;
+        int INF = 2001;
         int[] D = new int[N+1];
         Arrays.fill(D, INF);
         //우선순위큐 생성
