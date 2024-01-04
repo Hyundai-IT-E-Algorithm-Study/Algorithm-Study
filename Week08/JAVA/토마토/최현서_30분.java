@@ -36,8 +36,8 @@ public class Main {
         }
         //처음부터 다 익어있으면 0 출력
         if (ripeNum == tomatoNum) System.out.println(0);
-        //처음부터 다 안익어있으면, 시간에 따라 인접한 것들 영향주는 BFS 시작
-
+            
+        //처음부터 다 안 익어있으면, 시간에 따라 인접한 것들 영향주는 BFS 시작
         else {
             int currTime =0;
             while(!q.isEmpty()){
