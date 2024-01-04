@@ -24,7 +24,7 @@ public class Main {
                 DP[i]=0;
                 barrier = block[i];
             }
-            //barrier보다 작으면 물이 고임: DP에 저장
+            //barrier보다 작으면 간격만큼 물이 고임: DP에 저장
             else DP[i] = barrier - block[i];
         }
 
@@ -36,7 +36,7 @@ public class Main {
                 DP[i]=0;
                 barrier = block[i];
             }
-            //barrier보다 작으면 물이 고임: 기존보다 작으면, DP에 저장
+            //barrier보다 작으면 간격만큼 물이 고임: 기존보다 작으면, DP에 저장
             else {
                 if (DP[i] > barrier - block[i]) DP[i] = barrier - block[i];
             }
