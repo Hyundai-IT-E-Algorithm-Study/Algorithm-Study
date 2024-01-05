@@ -15,7 +15,9 @@ public class Solution {
         int[] D = new int[N+1];
         Arrays.fill(D, INF);
         //우선순위큐 생성
-        PriorityQueue<Node> pq = new PriorityQueue<>();
+        PriorityQueue<Node> pq = new PriorityQueue<>(Comparator.comparing(Node::getDistance));
+        //comparing에 람다식 적용하면, Node 클래스에 comparble 구현안해도 됨.
+    
         //visited 생성
         boolean[] visited = new boolean[N+1];
 
@@ -58,13 +60,8 @@ public class Solution {
         }
         return answer;
     }
-
-
-
-
-
-      //Node 클래스..(우선순위큐와 인접리스트에 마을번호와 거리(시간)을 넣기위한 용도)
-      class Node implements Comparable<Node> {
+    //Node 클래스..(우선순위큐와 인접리스트에 마을번호와 거리(시간)을 넣기위한 용도)
+    class Node {
 
         private int index;
         private int distance;
@@ -81,15 +78,8 @@ public class Solution {
         public int getDistance() {
             return this.distance;
         }
-
-        // 거리(비용)가 짧은 것이 높은 우선순위를 가지도록 설정
-        @Override
-        public int compareTo(Node other) {
-            if (this.distance < other.distance) {
-                return -1;
-            }
-            return 1;
-        }
     }
 
 }
+
+
