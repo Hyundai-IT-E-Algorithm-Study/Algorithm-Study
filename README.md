@@ -215,7 +215,7 @@
 <summary><h3>✏️Week08-01.03~01.09</h3></summary>
 <div markdown="1">
 
-|유형|발표 : ||
+|유형|라이브 코딩||
 |:---:|:---:|:---:|
 |JAVA|[이모티콘](https://www.acmicpc.net/problem/14226)| 골드4|
 |JAVA|[전쟁 - 전투](https://www.acmicpc.net/problem/1303)| 실버1|
