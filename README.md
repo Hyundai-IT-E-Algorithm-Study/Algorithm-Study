@@ -212,7 +212,7 @@
 
 
 <details>
-<summary><h3>✏️Week08-01.03~01.09</h3></summary>
+<summary><h3>Week08-01.03~01.09</h3></summary>
 <div markdown="1">
 
 |유형|||
@@ -230,7 +230,7 @@
 
 
 <details>
-<summary><h3>Week09-</h3></summary>
+<summary><h3>✏️Week09-01.10~01.16</h3></summary>
 <div markdown="1">
 
 |유형| 자바 2시간 정하고 풀기 |이클립스|
