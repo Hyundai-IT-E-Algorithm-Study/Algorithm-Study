@@ -215,7 +215,7 @@
 <summary><h3>✏️Week08-01.03~01.09</h3></summary>
 <div markdown="1">
 
-|유형|라이브 코딩||
+|유형|||
 |:---:|:---:|:---:|
 |JAVA|[이모티콘](https://www.acmicpc.net/problem/14226)| 골드4|
 |JAVA|[전쟁 - 전투](https://www.acmicpc.net/problem/1303)| 실버1|
@@ -227,29 +227,25 @@
 </div>
 </details>
 
-<details>
-<summary><h3>진행예정</h3></summary>
-<div markdown="1">
+
 
 <details>
 <summary><h3>Week09-</h3></summary>
 <div markdown="1">
 
-|유형|발표 : ||
+|유형| 자바 2시간 정하고 풀기 |이클립스|
 |:---:|:---:|:---:|
-|JAVA|[]()| |
-|JAVA|[]()| |
-|JAVA|[]()| |
-|JAVA|[]()| |
-|JAVA|[]()| |
-|SQL|[]()| |
-|SQL|[]()| |
-|SQL|[]()| |
-|SQL|[]()| |
-|SQL|[]()| |
+|JAVA|[1번 문제](https://www.acmicpc.net/problem/3187)| |
+|JAVA|[2번 문제](https://www.acmicpc.net/problem/16935)| |
+|SQL|[3번 문제](https://solvesql.com/problems/olist-daily-revenue/)|자율|
+
 
 </div>
 </details>
+
+<details>
+<summary><h3>진행예정</h3></summary>
+<div markdown="1">
 
 <details>
 <summary><h3>Week10-</h3></summary>
